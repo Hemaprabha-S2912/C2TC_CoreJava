@@ -1,10 +1,16 @@
 package com.tnsif.dayfour.thirdpackage;
-
-import com.tnsif.dayfour.secondpackage.student;
+import com.tnsif.dayfour.firstpackage.*;
+import com.tnsif.dayfour.secondpackage.*;
 
 public class accessdemo {
-    public static void main(String[] args) {
-        student s = new student();
-        s.showDetails();  // calls Student method
-    }
+
+	public static void main(String[] args) {
+		calc c=new calc();
+		advance a=new advance();
+				System.out.println("Addition: " + c.add(10,5));
+				c.showPrivate();
+				a.display();
+		}
 }
+		
+
