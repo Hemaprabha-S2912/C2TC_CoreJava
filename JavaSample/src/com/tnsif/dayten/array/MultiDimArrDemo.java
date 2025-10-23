@@ -1,4 +1,4 @@
-package com.tnsif.dayten;
+package com.tnsif.dayten.array;
 
 public class MultiDimArrDemo {
 	public static void main(String[] args) {

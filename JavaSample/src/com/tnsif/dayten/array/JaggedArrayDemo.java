@@ -1,4 +1,4 @@
-package com.tnsif.dayten;
+package com.tnsif.dayten.array;
 
 public class JaggedArrayDemo {
 
