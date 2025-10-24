@@ -1,4 +1,4 @@
-package com.tnsif.dayseven.polymorphishm.overloading;
+package com.tnsif.dayseven.overloading;
 
 public class overloading {
 	public  int addition(int a,int b) {

@@ -1,4 +1,4 @@
-package com.tnsif.dayseven.polymorphishm.overriding;
+package com.tnsif.dayseven.overriding;
 
 public class demo {
 
