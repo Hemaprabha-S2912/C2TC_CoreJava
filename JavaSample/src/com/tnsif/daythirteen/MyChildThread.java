@@ -2,12 +2,12 @@
 package com.tnsif.daythirteen;
 
 //Thread class
-public class ChildThread extends Thread {
+public class MyChildThread extends Thread {
 	private int n;
 	private String msg;
 
 	// Constructor
-	public ChildThread(int n, String msg) {
+	public MyChildThread(int n, String msg) {
 		this.n = n;
 		this.msg = msg;
 	}
